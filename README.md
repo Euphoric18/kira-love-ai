@@ -4,3 +4,4 @@ what can she do?:
 -make commands for users in select linux app
 -understand complex feelings 
 -most of all she can think
+-she can allso remeber all of the convorsations you have with her unless you imput /Factoryreset wich should erase all in the file not the file itself
